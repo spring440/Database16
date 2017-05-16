@@ -1,0 +1,1 @@
+INSERT Levels VALUES ('Beginner'),('Intermediate'),('Advanced'),('Non-Techinal')
